@@ -1,0 +1,5 @@
+debug
+.vscode
+fake_api/dist
+gorm.db
+public
